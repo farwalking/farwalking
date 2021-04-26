@@ -1,4 +1,4 @@
-## Hi there 👋 [xTang's Blog](https://xtangyes.github.io/)
+## [Hi there 👋 xTang's Blog](https://xtangyes.github.io/)
 
 <!--**xtangyes/xtangyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
